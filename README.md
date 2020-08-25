@@ -1,6 +1,6 @@
 ### Hi there I'm Heber Josías 👋
 
-![hero](https://user-images.githubusercontent.com/53913737/91210156-6594e980-e6d2-11ea-91f4-6a08ff22397f.png)
+![hero](https://user-images.githubusercontent.com/53913737/91210320-a68cfe00-e6d2-11ea-936e-4ef882f96c48.png)
 
 ```js
   const HeberJosías = {
