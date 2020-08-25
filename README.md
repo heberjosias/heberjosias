@@ -14,7 +14,7 @@ You can find me 🔭
 
 ```js
   const HeberJosías = {
-    code: ["JavaScript", "Python", "CSS", "PHP"],
+    code: ["JavaScript", "CSS", "Python"],
     askMeAbout: ["Web Dev", "Tech", "Data Science"],
     tools: {
         frontEnd: {
