@@ -1,7 +1,8 @@
-<img width="50%" align="right" alt="Github" src="https://heberjosias.com/img/hero.svg" />
+<img width="45%" align="right" alt="Github" src="https://heberjosias.com/img/hero.svg" />
 
 ### Hi there, I'm Heber Josías 👋
 I'm a geek, passionate about learning and always looking for innovation💡
+
 I have 5 years of experience in web projects, cloud services and I have worked in mobile development, e-commerce and recently data science.
 
 - You can find me 🔭 :
