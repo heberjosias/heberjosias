@@ -1,12 +1,6 @@
 ### Hi there, I'm Heber Josías 👋
 I'm a geek, passionate about learning and always looking for innovation💡
 
-<img width="40%" align="right" alt="Github" src="https://user-images.githubusercontent.com/53913737/91210533-fec40000-e6d2-11ea-90a7-4a4547fd149d.png" />
-- 🔭 You can find me:<br>
-- [Instagram](https://www.instagram.com/josiasheber/)
-<br>
-- [Linkedin](https://www.linkedin.com/in/heberjosias/)
-
 ```js
   const HeberJosías = {
     pronouns: "He" | "Him",
@@ -26,3 +20,12 @@ I'm a geek, passionate about learning and always looking for innovation💡
     challenge: "I am doing the #100DaysOfCode challenge focused on React and Next"
   }
 ```
+
+<img width="40%" align="right" alt="Github" src="https://user-images.githubusercontent.com/53913737/91210533-fec40000-e6d2-11ea-90a7-4a4547fd149d.png" />
+
+- 🔭 You can find me:<br>
+- [Instagram](https://www.instagram.com/josiasheber/)
+<br>
+- [Linkedin](https://www.linkedin.com/in/heberjosias/)
+
+
