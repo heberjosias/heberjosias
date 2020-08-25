@@ -4,11 +4,11 @@ I'm a geek, passionate about learning and always looking for innovation💡
 ```js
   const HeberJosías = {
     pronouns: "He" | "Him",
-    code: [JavaScript, Python, CSS, PHP],
+    code: ["JavaScript", "Python", "CSS", "PHP"],
     askMeAbout: ["Web Dev", "Tech", "Data Science"],
     tools: {
         frontEnd: {
-            js: ["React", "Next", Gatsby", "Vue", "Nuxt"],
+            js: ["React", "Next", "Gatsby", "Vue", "Nuxt"],
             css: ["Sass", "Tailwind", "Materialize", "Vuetify", "Bootstrap"]
         },
         backEnd: ["Node", "Express", "PHP],
