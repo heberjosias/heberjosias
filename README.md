@@ -14,7 +14,6 @@ You can find me 🔭
 
 ```js
   const HeberJosías = {
-    pronouns: "He" | "Him",
     code: ["JavaScript", "Python", "CSS", "PHP"],
     askMeAbout: ["Web Dev", "Tech", "Data Science"],
     tools: {
@@ -28,6 +27,7 @@ You can find me 🔭
         misc: ["Firebase", "Webpack", "Gulp", "Jest"]
     },
     architecture: ["Serverless Architecture", "Progressive Web applications", "Single Page Applications"],
+    
     challenge: "I am doing the #100DaysOfCode challenge focused on React and Next"
   }
 ```
