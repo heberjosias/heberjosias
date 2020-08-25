@@ -1,5 +1,7 @@
-![hero](https://user-images.githubusercontent.com/53913737/91210533-fec40000-e6d2-11ea-90a7-4a4547fd149d.png)
 ### Hi there I'm Heber Josías 👋
+
+![hero](https://user-images.githubusercontent.com/53913737/91210533-fec40000-e6d2-11ea-90a7-4a4547fd149d.png)
+
 ```js
   const HeberJosías = {
     pronouns: "He" | "Him",
