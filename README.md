@@ -8,20 +8,14 @@
     code: [JavaScript, Python, CSS, PHP],
     askMeAbout: ["Web Dev", "Tech", "Data Science"],
     tools: {
-        mobileApp: ["React Native"],
         frontEnd: {
             js: ["React", "Next", Gatsby", "Vue", "Nuxt"],
             css: ["Sass", "Tailwind", "Materialize", "Vuetify", "Bootstrap"]
         },
-        backEnd: {
-            js: ["Node", "Express"],            
-            python: ["flask"],
-            php: ["Codeigniter", "Laravel"]            
-        },
+        backEnd: ["Node", "Express", "PHP],
+        dataScience: ["Phyton", "NumPy", "Pandas", "Jupyter", "PowerBI"],
         databases: ["Mongo", "MySql", "SqlServer"],
-        devOps: ["AWS", "GCP", "Nginx"],
-        deploy: ["Vercel", "Netlify", "Heroku", "Digital Ocean"]
-        misc: ["Firebase", "Socket.IO", "Webpack", "Gulp", "Jest"]
+        misc: ["Firebase", "Webpack", "Gulp", "Jest"]
     },
     architecture: ["Serverless Architecture", "Progressive Web applications", "Single Page Applications"],
     challenge: "I am doing the #100DaysOfCode challenge focused on React and Next"
