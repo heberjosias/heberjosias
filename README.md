@@ -8,8 +8,8 @@ I have 5 years of experience in web projects, cloud services and I have worked i
 You can find me 🔭
 - [Instagram](https://www.instagram.com/josiasheber/)
 - [LinkedIn](https://www.linkedin.com/in/heberjosias/)
-- [CodePen](https://codepen.io/heberjosias/)
 - [Twitter](https://twitter.com/josiasheber/)
+- [CodePen](https://codepen.io/heberjosias/)
 - [Website](https://heberjosias.com/)
 
 
