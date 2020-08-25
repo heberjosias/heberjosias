@@ -21,10 +21,11 @@ I'm a geek, passionate about learning and always looking for innovation💡
   }
 ```
 
-<img width="40%" align="left" alt="Github" src="https://user-images.githubusercontent.com/53913737/91210533-fec40000-e6d2-11ea-90a7-4a4547fd149d.png" />
+<img width="50%" align="right" alt="Github" src="https://heberjosias.com/img/hero.svg" />
 
 - You can find me 🔭 :
 - [Instagram](https://www.instagram.com/josiasheber/)
 - [LinkedIn](https://www.linkedin.com/in/heberjosias/)
-
+- [CodePen](https://codepen.io/heberjosias/)
+- [Twitter](https://twitter.com/josiasheber/)
 
