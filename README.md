@@ -23,7 +23,7 @@
     },
     architecture: ["Serverless Architecture", "Progressive Web applications", "Single Page Applications"],
     challenge: "I am doing the #100DaysOfCode challenge focused on React and Next"
-}
+  }
 ```
 <!--
 **heberjosias/heberjosias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
