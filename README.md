@@ -1,7 +1,6 @@
 ### Hi there I'm Heber Josías
 Frontend Developer and Data Science Student 💻 👋
-
-I'm a geek, passionate about learning and always looking for innovation💡, I have 5 years of experience in web projects, cloud services and I have worked in mobile development, e-commerce and recently data science.
+I have 5 years of experience in web projects, cloud services and I have worked in mobile development, e-commerce and recently data science.
 
 ![hero](https://user-images.githubusercontent.com/53913737/91210533-fec40000-e6d2-11ea-90a7-4a4547fd149d.png)
 
