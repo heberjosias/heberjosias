@@ -26,8 +26,7 @@ You can find me 🔭
         databases: ["Mongo", "MySql", "SqlServer"],
         misc: ["Firebase", "Webpack", "Gulp", "Jest"]
     },
-    architecture: ["Serverless Architecture", "Progressive Web applications", "Single Page Applications"],
-    
+    architecture: ["Serverless Architecture", "Progressive Web applications", "Single Page Applications"],    
     challenge: "I am doing the #100DaysOfCode challenge focused on React and Next"
   }
 ```
