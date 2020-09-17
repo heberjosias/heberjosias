@@ -20,7 +20,7 @@ You can find me 🔭
     tools: {
         frontEnd: {
             js: ["React", "Next", "Gatsby", "Vue", "Nuxt"],
-            css: ["Sass", "Tailwind", "Materialize", "Vuetify", "Bootstrap"]
+            css: ["Sass", "Tailwind CSS", "Material UI", "Vuetify", "Bootstrap"]
         },
         backEnd: ["Node", "Express", "PHP"],
         dataScience: ["Phyton", "NumPy", "Pandas", "Jupyter", "PowerBI"],
