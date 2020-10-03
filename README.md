@@ -6,10 +6,9 @@ I'm a geek, passionate about learning and always looking for innovation💡
 I have 5 years of experience in web projects, cloud services and I have worked in mobile development, e-commerce and recently data science.
 
 You can find me 🔭
-- [Instagram](https://www.instagram.com/josiasheber/)
 - [LinkedIn](https://www.linkedin.com/in/heberjosias/)
 - [Twitter](https://twitter.com/josiasheber/)
-- [CodePen](https://codepen.io/heberjosias/)
+- [Instagram](https://www.instagram.com/josiasheber/)
 - [Website](https://heberjosias.com/)
 
 
