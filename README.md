@@ -1,9 +1,10 @@
 <img width="50%" align="right" alt="Github" src="https://heberjosias.com/img/hero.svg" />
 
 ### Hi there, I'm Heber Josías 👋
-I'm a geek, passionate about learning and always looking for innovation💡
+Self-taught Developer & Data Science student 💻
 
-I have 5 years of experience in web projects, cloud services and I have worked in mobile development, e-commerce and recently data science.
+Frontend developer for 5 years, working with CSS, JavaScript, React, Next, Gatsby, GraphQL, React Native, Firebase...
+I am currently involved in maths and seriously in the world of data science.
 
 You can find me 🔭
 - [LinkedIn](https://www.linkedin.com/in/heberjosias/)
