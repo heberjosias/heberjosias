@@ -18,13 +18,12 @@ You can find me 🔭
     askMeAbout: ["Web Dev", "Tech", "Data Science"],
     tools: {
         frontEnd: {
-            js: ["React", "Next", "Gatsby", "Vue"],
-            css: ["Sass", "Tailwind CSS", "Material UI", "Bootstrap"]
+            js: ["React", "Next", "Gatsby", "React Native"],
+            css: ["Sass", "Styled Components", "Tailwind CSS"]
         },
         backEnd: ["Node", "Express", "PHP"],
         dataScience: ["Phyton", "NumPy", "Pandas", "Jupyter", "PowerBI"],
         databases: ["Mongo", "MySql", "SqlServer"],
-        misc: ["Firebase", "Webpack", "Jest"]
     },
     architecture: ["Serverless Architecture", "Progressive Web applications", "Single Page Applications"],    
     challenge: "I am doing the #100DaysOfCode challenge focused on React and Next"
