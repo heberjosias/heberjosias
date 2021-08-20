@@ -3,31 +3,29 @@
 ### Hi there, I'm Heber Josías 👋
 Self-taught Developer & Data Science student 💻
 
-Frontend developer for 5 years, working with CSS, JavaScript, React, Next, Gatsby, GraphQL, React Native, Firebase...
+Frontend developer for 5 years, working with CSS, JavaScript, React, Next.js, Gatsby, GraphQL, Firebase...
 I am currently involved in maths and seriously in the world of data science.
 
 You can find me 🔭
-- [LinkedIn](https://www.linkedin.com/in/heberjosias/)
-- [Twitter](https://twitter.com/josiasheber/)
-- [Instagram](https://www.instagram.com/josiasheber/)
 - [Website](https://heberjosias.com/)
+- [LinkedIn](https://www.linkedin.com/in/heberjosias/)
+- [Instagram](https://www.instagram.com/josiasheber/)
 
 
 ```js
   const HeberJosías = {
-    code: ["JavaScript", "CSS", "Python"],
+    code: ["JavaScript", "Python"],
     askMeAbout: ["Web Dev", "Tech", "Data Science"],
     tools: {
         frontEnd: {
-            js: ["React", "Next", "Gatsby", "React Native"],
-            css: ["Sass", "Styled Components", "Tailwind CSS"]
+            js: ["React", "Next.js", "Gatsby", "Jamstack"],
+            css: ["Sass", "Styled Components"]
         },
-        backEnd: ["Node", "Express", "PHP"],
         dataScience: ["Phyton", "NumPy", "Pandas", "Jupyter", "PowerBI"],
         databases: ["Mongo", "MySql", "SqlServer"],
     },
     architecture: ["Serverless Architecture", "Progressive Web applications", "Single Page Applications"],    
-    challenge: "I am doing the #100DaysOfCode challenge focused on React and Next"
+    challenge: "I am doing the #100DaysOfCode challenge focused on React and Next.js"
   }
 ```
 
