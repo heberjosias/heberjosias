@@ -1,4 +1,4 @@
-<img width="50%" align="right" alt="Github" src="https://heberjosias.com/img/hero.svg" />
+<img width="80%" align="right" alt="Github" src="https://heberjosias.com/img/space.svg" />
 
 ### Hi there, I'm Heber Josías 👋
 Self-taught developer & data science student 💻  from México
