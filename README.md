@@ -3,8 +3,9 @@
 ### Hi there, I'm Heber Josías 👋
 Self-taught developer & data science student 💻  from México
 
-Frontend developer for 5 years, working with CSS, JavaScript, React, Next.js, Gatsby, GraphQL, Firebase...
-For now, seriously involved in the world of data science.
+Frontend developer, working with CSS, JavaScript, React, Next.js, Gatsby, Firebase...
+
+I always want to learn more, do more, and be more. I’m hard working, passionate, and also a fast learner!💡
 
 You can find me 🔭
 - [Website](https://heberjosias.com/)
