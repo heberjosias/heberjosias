@@ -1,30 +1,12 @@
-<img width="20%" align="right" alt="Github" src="https://heberjosias.com/img/space.svg" />
 
 ### Hi there, I'm Heber Josías 👋
-Senior web developer, data analyst and data science padawan 💻
-I always want to learn more, do more, and be more. I’m hard working, passionate, and also a fast learner!💡
+9 years working with companies across Mexico, Canada, the UK, and the US.
+I live at the intersection of data and the client 🚀
+
 
 You can find me 🔭
 - [Website](https://heberjosias.com/)
 - [LinkedIn](https://www.linkedin.com/in/heberjosias/)
-- [Links](https://beacons.ai/heberjosias/)
 
-
-```js
-  const HeberJosías = {
-    code: ["JavaScript", "Python"],
-    askMeAbout: ["Web Dev", "Tech", "Data Analytics"],
-    tools: {
-        frontEnd: {
-            js: ["React", "Next.js", "Gatsby", "Jamstack"],
-            css: ["Sass", "Styled Components"]
-        },
-        dataAnalyst: ["Phyton", "NumPy", "Pandas", "SQL / NoSQL", "Power BI", "Tableau", "Data visualization", "Storytelling"],
-        other: ["Firebase", "GCP",
-    },
-    architecture: ["Web Apps", "Progressive Web applications", "Single Page Applications"],    
-    challenge: "I am doing the #100DaysOfCode challenge focused on Python"
-  }
-```
 
 
